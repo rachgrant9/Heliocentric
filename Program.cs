@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace SDETQ1
+namespace Heliocentric
 {
   class Program
   {

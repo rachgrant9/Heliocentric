@@ -1,4 +1,4 @@
-﻿namespace SDETQ1
+﻿namespace Heliocentric
 {
   public class AlignmentCalculator
   {

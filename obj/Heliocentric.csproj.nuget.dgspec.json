@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rachelg\\source\\repos\\SDETQ1\\Heliocentric.csproj": {}
+    "C:\\Users\\rachelg\\source\\repos\\Heliocentric\\Heliocentric.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rachelg\\source\\repos\\SDETQ1\\Heliocentric.csproj": {
+    "C:\\Users\\rachelg\\source\\repos\\Heliocentric\\Heliocentric.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rachelg\\source\\repos\\SDETQ1\\Heliocentric.csproj",
+        "projectUniqueName": "C:\\Users\\rachelg\\source\\repos\\Heliocentric\\Heliocentric.csproj",
         "projectName": "Heliocentric",
-        "projectPath": "C:\\Users\\rachelg\\source\\repos\\SDETQ1\\Heliocentric.csproj",
+        "projectPath": "C:\\Users\\rachelg\\source\\repos\\Heliocentric\\Heliocentric.csproj",
         "packagesPath": "C:\\Users\\rachelg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rachelg\\source\\repos\\SDETQ1\\obj\\",
+        "outputPath": "C:\\Users\\rachelg\\source\\repos\\Heliocentric\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
